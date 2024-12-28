@@ -1,19 +1,18 @@
 .products{
 text-align: left;
-width:100%;
+width:fit-content;
 
 }
 
 .product1{
-
-      width:100%;
-      float:left;
+    float:left;
+    width:100%;
 }
 
 .p1{
+    float:left;
     padding:5px 5px 5px 5px;
     width:300px;
-    float:left;
     border:1px 1px 1px 1px;
     border-color:black;
     border-style:solid;
@@ -21,17 +20,17 @@ width:100%;
 }
 
 .p2{
+    float:left;
     padding:5px 5px 5px 5px;
     width:300px;
-    float:left;
     border:1px 1px 1px 1px;
     border-color:black;
     border-style:solid;
 }
 
 .product2{
-      width:100%;
-      float:left;
+    float:left;
+    width:100%;
 }
 
 .p1 img {
